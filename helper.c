@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <getopt.h>
 
+
 static struct option opts[] = {
   { "dup", 1, NULL, 'd' },
   { "open", 1, NULL, 'o' },
