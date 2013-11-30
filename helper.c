@@ -22,6 +22,7 @@ static int on_opt_report(char* arg);
 
 static void report(int fd, const char* context, const char* token, int err);
 
+
 int main(int argc, char* argv[]) {
   char c;
   char **nonopts;
